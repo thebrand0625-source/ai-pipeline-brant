@@ -1,0 +1,9 @@
+{
+  "name": "video-pipeline",
+  "version": "0.1.0",
+  "description": "AI 影片製作四階段管線:創意發想 → 劇本生成 → 圖像素材生成 → 分鏡與影片生成(Higgsfield)",
+  "author": {
+    "name": "Chris",
+    "email": "chris@riversense.tw"
+  }
+}
