@@ -1,0 +1,14 @@
+{
+  "name": "video-pipeline-marketplace",
+  "owner": {
+    "name": "Chris",
+    "email": "chris@riversense.tw"
+  },
+  "plugins": [
+    {
+      "name": "video-pipeline",
+      "source": "./plugins/video-pipeline",
+      "description": "AI 影片製作四階段管線:創意發想 → 劇本生成 → 圖像素材生成 → 分鏡與影片生成(Higgsfield)"
+    }
+  ]
+}
